@@ -1,0 +1,13 @@
+nb_light_on_map => juste à cet endroit
+posx
+posy
+radius
+color_red
+color_green
+color_blue
+color_alpha
+intensity_a
+intensity_b
+nb_frame_switch => nb frame pour passer de intensité a à b
+////
+...

@@ -1,0 +1,19 @@
+nb_weapons_total => juste à cet endroit
+name
+price
+texture_path
+texture_path_fight/Animation_path
+nb_frame_anim1.2.3.
+damage
+level_power
+crit
+nb_shot
+stamina
+cd1.cd2.cd3. (en nb de frame)
+malus_speed
+malus_stamina
+malus_agility
+malus_crit
+malus_stun
+////
+...

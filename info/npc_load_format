@@ -1,0 +1,18 @@
+nb_npc_on_map => juste à cette endroit ^^
+posx
+posy
+hitboxx
+hitboxy
+type // 0 = rien, 1 = marchand, 2 = combat 3 = quete
+nb_frame_count => nb frame for animation
+sound
+texture
+texture_fight
+text
+movements1x.movements1y.movements2x.movements2y.
+speed
+level.hp.index_weapon.index_item_chest.index_item_leg.speed.dodge.crit.stamina.regen_stam.dodge_accurancy.
+items
+weapons
+/////
+...

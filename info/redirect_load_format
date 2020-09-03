@@ -1,0 +1,12 @@
+//nb_redirect => juste à cet endroit
+posx
+posy
+hitboxx
+hitboxy
+redirect_map_path
+dest_posx
+dest_posy
+sizex
+sizey
+////
+...

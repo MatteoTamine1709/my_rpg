@@ -1,0 +1,13 @@
+nb_item_total => juste à cet endroit
+name
+price
+texture_path
+type //chest = 1 leg = 2 conso = 3
+level_power
+hp
+speed
+stamina
+dodge
+crit
+////
+...
